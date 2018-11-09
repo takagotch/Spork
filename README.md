@@ -25,18 +25,6 @@ bundle exec cucumber features
 ```
 ```
 
-```
-```
-
-
-
-
-
-
-
-
-
-
 
 
 
